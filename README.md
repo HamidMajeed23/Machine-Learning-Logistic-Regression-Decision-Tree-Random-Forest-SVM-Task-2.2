@@ -64,6 +64,7 @@ The objective of this assignment is to train, hyperparameter-tune, evaluate, and
 ---
 
 ## 📈 Model Comparison Matrix
+See the Notebook
 
 | Model | Accuracy | Precision | Recall | F1-Score | Training Time (s) |
 
